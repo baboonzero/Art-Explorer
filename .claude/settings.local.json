@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:api.artic.edu)",
+      "Bash(curl:*)",
+      "Bash(nul)",
+      "WebFetch(domain:www.artic.edu)",
+      "WebFetch(domain:formversuscontent.com)",
+      "WebFetch(domain:lakeimagesweb.artic.edu)",
+      "Bash(netstat:*)",
+      "Bash(findstr:*)",
+      "Bash(npm run dev:*)",
+      "Bash(timeout /t 5 /nobreak)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
