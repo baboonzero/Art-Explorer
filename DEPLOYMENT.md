@@ -105,7 +105,7 @@ This guide outlines the steps to deploy Art Explorer as a production website whe
 #### Step 3.4: Verify Deployment
 - **Action**: Test the live site
 - **Tasks**:
-  - Visit the provided Vercel URL (e.g., `art-explorer.vercel.app`)
+  - Visit your site at `https://art.anshumani.com`
   - Test all features:
     - Browse artworks by style
     - Search functionality

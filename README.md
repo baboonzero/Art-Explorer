@@ -439,7 +439,7 @@ Art Explorer is configured for easy deployment on Netlify.
    - Click "Deploy site"
 
 3. **Your site is live!**
-   - Get a URL like `art-explorer-123abc.netlify.app`
+   - Visit your site at `https://art.anshumani.com`
    - Automatic deployments on every push
 
 #### Configuration

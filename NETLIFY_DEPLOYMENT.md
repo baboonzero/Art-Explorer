@@ -56,7 +56,7 @@ Netlify should auto-detect Vite, but verify these settings:
 3. You'll see a success message with your site URL
 
 ### Step 6: Verify Deployment
-1. Visit your Netlify URL (e.g., `art-explorer-123abc.netlify.app`)
+1. Visit your site at `https://art.anshumani.com`
 2. Test all features:
    - ✅ Browse artworks by style
    - ✅ Search functionality
@@ -265,6 +265,7 @@ netlify logs
 ---
 
 **Your app is ready to deploy! 🚀**
+
 
 
 
